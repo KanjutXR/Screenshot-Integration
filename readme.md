@@ -1,6 +1,7 @@
 # Godot Editor Screenshot to Discord Webhook
 
 A lightweight **Godot Engine 4** plugin designed for mobile and desktop developers to quickly share their editor progress. Capture your current editor view and send it to a Discord channel with a custom title and description in one click.
+by KanjutDEV
 
 ## ✨ Features
 - **Clean Captures**: Automatically hides the plugin button and input dialog before taking the screenshot.
